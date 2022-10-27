@@ -1,0 +1,13 @@
+/Users/migleczigergo/Projects/DigitalPicture/bin/Debug/netcoreapp3.1/DigitalPicture.deps.json
+/Users/migleczigergo/Projects/DigitalPicture/bin/Debug/netcoreapp3.1/DigitalPicture.runtimeconfig.json
+/Users/migleczigergo/Projects/DigitalPicture/bin/Debug/netcoreapp3.1/DigitalPicture.runtimeconfig.dev.json
+/Users/migleczigergo/Projects/DigitalPicture/bin/Debug/netcoreapp3.1/DigitalPicture.dll
+/Users/migleczigergo/Projects/DigitalPicture/bin/Debug/netcoreapp3.1/DigitalPicture.pdb
+/Users/migleczigergo/Projects/DigitalPicture/obj/Debug/netcoreapp3.1/DigitalPicture.csproj.AssemblyReference.cache
+/Users/migleczigergo/Projects/DigitalPicture/obj/Debug/netcoreapp3.1/DigitalPicture.GeneratedMSBuildEditorConfig.editorconfig
+/Users/migleczigergo/Projects/DigitalPicture/obj/Debug/netcoreapp3.1/DigitalPicture.AssemblyInfoInputs.cache
+/Users/migleczigergo/Projects/DigitalPicture/obj/Debug/netcoreapp3.1/DigitalPicture.AssemblyInfo.cs
+/Users/migleczigergo/Projects/DigitalPicture/obj/Debug/netcoreapp3.1/DigitalPicture.csproj.CoreCompileInputs.cache
+/Users/migleczigergo/Projects/DigitalPicture/obj/Debug/netcoreapp3.1/DigitalPicture.dll
+/Users/migleczigergo/Projects/DigitalPicture/obj/Debug/netcoreapp3.1/DigitalPicture.pdb
+/Users/migleczigergo/Projects/DigitalPicture/obj/Debug/netcoreapp3.1/DigitalPicture.genruntimeconfig.cache
